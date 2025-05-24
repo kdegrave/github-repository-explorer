@@ -1,2 +1,2 @@
-# hackathon-github-repository-explorer
+# github-repository-explorer
 
